@@ -1,6 +1,6 @@
 module.exports = {
-    tabNoSize: "Todos los Tamaños de la Empresa",
-    tabSmall: "Pequeño Tamaño",
-    tabMedium: "Talla Media",
-    tabLarge: "Grande y Público"
+    tabNoSize: "Todos los Tamaños de Empresas",
+    tabSmall: "Tamaño Pequeño",
+    tabMedium: "Tamaño Medio",
+    tabLarge: "Grandes y Públicas"
 };

@@ -1,4 +1,4 @@
 module.exports = {
-    label_readMore: "lee mas",
+    label_readMore: "leer más",
     label_readLess: "leer menos",
 };

@@ -1,3 +1,3 @@
 module.exports = {
-    label_loadMore: "Carga Más",
+    label_loadMore: "Cargar Más",
 };

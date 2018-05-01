@@ -1,7 +1,7 @@
 module.exports = {
     "1" : "Hombre",
-    "2" : "Hembra",
+    "2" : "Mujer",
 
     "slug_1" : "hombre",
-    "slug_2" : "hembra"
+    "slug_2" : "mujer"
 };

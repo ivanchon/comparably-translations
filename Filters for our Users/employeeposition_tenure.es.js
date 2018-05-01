@@ -3,7 +3,7 @@ module.exports = {
     "2" : "1 a 2 Años",
     "3" : "2 a 5 Años",
     "4" : "5 a 10 Años",
-    "5" : "Mas de 10 Año",
+    "5" : "Más de 10 Años",
 
     "short_1" : "< 1",
     "short_2" : "1-2",

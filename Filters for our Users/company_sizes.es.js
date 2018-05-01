@@ -1,5 +1,5 @@
 module.exports = {
-    "1" : "Cuenta Propia",
+    "1" : "Autónomo",
     "2" : "1-10 Empleados",
     "3" : "11-50 Empleados",
     "4" : "51-200 Empleados",

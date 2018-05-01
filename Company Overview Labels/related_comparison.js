@@ -1,8 +1,8 @@
 module.exports = {
-    summary_bySize: "[local:companyName] currently ranks in the <b>[local:rankLabel] [local:percent]%</b> of similary size companies",
-    summary_bySize_us: "[local:companyName] currently ranks in the <b>[local:rankLabel] [local:percent]%</b> of similary size companies in the US",
+    summary_bySize: "[local:companyName] currently ranks in the <b>[local:rankLabel] [local:percent]%</b> of similarly sized companies",
+    summary_bySize_us: "[local:companyName] currently ranks in the <b>[local:rankLabel] [local:percent]%</b> of similarly sized companies in the US",
     summary_bySize_noCompany: "Similar size Companies",
-    summary_bySize_noCompany_us: "Similar size Companies  in the US",
+    summary_bySize_noCompany_us: "Similar size Companies in the US",
     summary_bySize_noData: "[local:companyName] does not have enough ratings to rank against similar size companies",
     summary_bySize_noData_noCompany: "Similar size: not enough ratings",
 

@@ -1,9 +1,9 @@
 module.exports = {
     label_viewAll: "Ver Todo",
 
-    title_positive: "Comentarios Positivos de los Empleados",
-    title_positive_featured: "Opiniones Destacadas de los Empleados Positivos",
+    title_positive: "Reseñas Positivas de los Empleados",
+    title_positive_featured: "Reseñas Positivas Destacadas de los Empleados",
 
-    title_negative: "Comentarios Constructivos de los Empleados",
-    title_negative_featured: "Opiniones Destacadas de los Empleados Constructivos",
+    title_negative: "Retroalimentación Constructiva de los Empleados",
+    title_negative_featured: "Retroalimentaciones Constructivas Destacadas de los Empleados",
 };

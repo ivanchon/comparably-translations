@@ -2,7 +2,7 @@ module.exports = {
     "1" : "Caucásico",
     "2" : "Hispano o Latino",
     "3" : "Afroamericano",
-    "4" : "Islas Asiáticas o del Pacífico",
+    "4" : "Asiático o Islas del Pacífico",
     "5" : "Nativo Americano",
     "6" : "Otro",
 

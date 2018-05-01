@@ -1,4 +1,4 @@
 module.exports = {
-    page_title: "Comentarios Empleado de la Empresa",
-    page_description: "Descubra cómo varios departamentos califican el liderazgo, la compensación, el equipo, el entorno y las perspectivas de su empresa",
+    page_title: "Reseñas de Empleados de la Empresa",
+    page_description: "Descubre cómo varios departamentos califican el liderazgo, el salario, el equipo, el ambiente y las perspectivas de su empresa",
 };

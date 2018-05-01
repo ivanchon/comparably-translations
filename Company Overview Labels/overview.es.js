@@ -1,8 +1,8 @@
 module.exports = {
-    header_title: "[local:companyName] Compaña Cultura",
+    header_title: "[local:companyName] Cultura de la Empresa",
     summary_topCategoryTitle: "Dimensiones de la Cultura Mejor Valoradas",
 
-    label_playCultureVideo: "Reproducir Cultura Video",
+    label_playCultureVideo: "Reproducir Video de Cultura",
     label_notEnoughData: "Datos insuficientes",
 
     label_participants: "PARTICIPANTES",
@@ -11,21 +11,21 @@ module.exports = {
 
     label_shareYourOpinion: "Comparte tu Opinion",
     label_knowSomeone: "¿Conoces a alguien que trabaja en [local:companyName]?",
-    label_anonymouslySendInvite: "Anónimamente Enviar Invitación",
+    label_anonymouslySendInvite: "Enviar Invitación Anónimamente",
 
-    label_ceoScore: "CEO Puntuación",
+    label_ceoScore: "Calificación del CEO",
 
-    tooltipText_eNPS: "Net Promoter Score sigue el puntaje general de sus empleados a esta pregunta: <i class=\"event-stop-propagation\" style=\"font-weight: normal;\">\"En una escala del 1 al 10, ¿qué probabilidades hay de que recomiendes trabajar en tu empresa con un amigo?\"</i>",
+    tooltipText_eNPS: "Net Promoter Score monitorea el Puntuación general de tus empleados a esta pregunta: <i class=\"event-stop-propagation\" style=\"font-weight: normal;\">\"En una escala del 1 al 10, ¿Qué probabilidad hay de que recomiendes a un amigo de trabajar en tu empresa?\"</i>",
 
     label_genderScore: "Puntuación de Género",
-    tooltipText_genderScore: "Cómo positivamente las mujeres califican su experiencia general en [local:companyName]",
-    summary_genderScore: "[local:companyName] ocupa el [local:percent]% [local:rankLabel] de Empresas de Similar Tamaño para el Puntaje de Género",
-    sparkline_tooltip_genderScore: "Tendencia de Puntaje de Género en los Últimos 3 Meses",
+    tooltipText_genderScore: "Qué tan positivamente califican las mujeres su experiencia en general en [local:companyName]",
+    summary_genderScore: "[local:companyName] figura en el [local:percent]% [local:rankLabel] de Empresas de Tamaño Similar para el Puntuación de Género",
+    sparkline_tooltip_genderScore: "Tendencia de Puntuación de Género en los Últimos 3 Meses",
 
     label_diversityScore: "Puntuación de Diversidad",
-    tooltipText_diversityScore: "Cómo positivamente las minorías califican su experiencia global en [local:companyName]",
-    summary_diversityScore: "[local:companyName] ocupa el [local:percent]% [local:rankLabel] de Empresas de Similar Tamaño para el Puntaje de Diversidad",
-    sparkline_tooltip_diversityScore: "Tendencia del Puntaje de Diversidad en los Últimos 3 Meses",
+    tooltipText_diversityScore: "Qué tan positivamente califican las minorías su experiencia en general en [local:companyName]",
+    summary_diversityScore: "[local:companyName] figura en el [local:percent]% [local:rankLabel] de Empresas de Tamaño Similar para el Puntuación de Diversidad",
+    sparkline_tooltip_diversityScore: "Tendencia del Puntuación de Diversidad en los Últimos 3 Meses",
 
     label_CultureAtAGlance: "Cultura de [local:companyName] de un Vistazo",
 
@@ -42,14 +42,14 @@ module.exports = {
     cultureCompensation: "Puntuación de Compensación",
     cultureTeam: "Puntuación del Equipo",
     cultureEnvironment: "Puntuación del Entorno",
-    cultureOutlook: "Puntaje de Outlook",
-    cultureSummaryText: "En el [local:percent]% [local:rankLabel] de empresas de tamaño similar en los US",
+    cultureOutlook: "Puntuación de Outlook",
+    cultureSummaryText: "En el [local:percent]% [local:rankLabel] de empresas de tamaño similar en los EUA",
     cultureSummaryText_noCountry: "En el [local:percent]% [local:rankLabel] de empresas de tamaño similar",
 
     cultureTrending_up: "Tendencia al alza",
     culutureTrending_down: "Tendencia a la baja",
-    culutureTrending_summary_up: "El puntaje de esta categoría ha tenido una tendencia al alza del [local:percent]% desde el mes pasado",
-    culutureTrending_summary_down: "El puntaje de esta categoría ha tenido una tendencia a la baja del [local:percent]% desde el mes pasado",
+    culutureTrending_summary_up: "El Puntuación de esta categoría ha mostrado una tendencia al alza del [local:percent]% desde el mes pasado",
+    culutureTrending_summary_down: "El Puntuación de esta categoría ha mostrado una tendencia a la baja del [local:percent]% desde el mes pasado",
 
     label_similarSizeCompanies: "Tamaño Similar Empresas en [local:metroName]",
     label_similarSizeCompanies_noMetro: "Tamaño Similar Empresas",

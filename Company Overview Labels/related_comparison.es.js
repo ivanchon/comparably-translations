@@ -1,13 +1,13 @@
 module.exports = {
     summary_bySize: "Actualmente, [local:companyName] se encuentra en el <b>[local:percent]% [local:rankLabel]</b> de empresas de tamaño similar",
     summary_bySize_us: "Actualmente, [local:companyName] se encuentra en el <b>[local:percent]% [local:rankLabel]</b> de empresas de tamaño similar en los Estados Unidos",
-    summary_bySize_noCompany: "Tamaño similar Las empresas",
-    summary_bySize_noCompany_us: "Tamaño similar Empresas en los Estados Unidos",
-    summary_bySize_noData: "[local:companyName] no tiene suficientes calificaciones para clasificar contra compañías de tamaño similar",
+    summary_bySize_noCompany: "Empresas de tamaño similar ",
+    summary_bySize_noCompany_us: "Empresas de tamaño similar en los Estados Unidos",
+    summary_bySize_noData: "[local:companyName] no tiene suficientes calificaciones para clasificar contra empresas de tamaño similar",
     summary_bySize_noData_noCompany: "Tamaño similar: calificaciones insuficientes",
 
-    summary_byMetro: "[local:companyName] actualmente ocupa el <b>[local:percent]% [local:rankLabel]</b> de empresas cercanas en [local:metroName]",
-    summary_byMetro_noMetro: "[local:companyName] actualmente ocupa el <b>[local:percent]% [local:rankLabel]</b> de empresas cercanas",
+    summary_byMetro: "[local:companyName] figura actualmente en el <b>[local:percent]% [local:rankLabel]</b> de empresas cercanas en [local:metroName]",
+    summary_byMetro_noMetro: "[local:companyName] figura actualmente en el <b>[local:percent]% [local:rankLabel]</b> de empresas cercanas",
     summary_byMero_noCompany: "Empresas cercanas en [local:metro.name]",
     summary_byMero_noCompany_noMetro: "Empresas cercanas",
     summary_byMetro_noData: "[local:companyName] no tiene suficientes calificaciones para clasificar contra empresas cercanas",
